@@ -1,2 +1,10 @@
-# trello-clone
-It is a basic trello app which has authentication on its sign in page
+# Trello App
+
+do npm i
+
+do npm run start
+
+do login with 
+email: prachi@momoshub.com'
+password: 123456'
+
